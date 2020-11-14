@@ -1,6 +1,11 @@
 # ping pong
 
-# player A                     player B
-keys:                          keys:
-"w" => up                      "Up arrow" => up
-"s" => down                    "Down arrow" => down
+# player A                    
+keys:                          
+"w" => up                      
+"s" => down                   
+
+# player B
+keys:
+"Up arrow" => up
+"Down arrow" => down
